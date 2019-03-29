@@ -29,14 +29,17 @@ Player can choose from 14 different teams and 5 different formations.
 
 ### Options
 Control background & SFX sounds.
+
 ![Options](https://user-images.githubusercontent.com/12692788/55249008-230c7a80-525c-11e9-84d4-967871119a96.jpg)
 
 ### Scoring a goal
 This shows when scoring a goal.
+
 ![Goal](https://user-images.githubusercontent.com/12692788/55249793-f5283580-525d-11e9-8b23-d54eaa426c33.jpg)
 
 ### Winning a game
 This shows when winning a game.
+
 ![WinningGame](https://user-images.githubusercontent.com/12692788/55257377-c10a4000-5270-11e9-8af6-da6dcb63df86.jpg)
 
 ## Course Information
