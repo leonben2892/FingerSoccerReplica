@@ -14,12 +14,13 @@ Main menu is used to navigate through the various options of the game.
 ![MainMenuScreen](https://user-images.githubusercontent.com/12692788/55247637-3b2eca80-5259-11e9-9d86-1f17469addf6.jpg)
 
 ### Single Player 
-Play single player mode.
+Play 1v1 against the computer with basic AI.
+
 ![SinglePlayer](https://user-images.githubusercontent.com/12692788/55247958-e6d81a80-5259-11e9-922f-941b760c0247.jpg)
 
 ### Multiplayer 
-Play multiplayer mode on 2 different computers!
-Including a working chat.
+Search and play against a different player.
+Including a working chat!
 ![Multiplayer](https://user-images.githubusercontent.com/12692788/55248535-0754a480-525b-11e9-88e7-4e1860b0024d.jpg)
 
 ### Game Tactics
