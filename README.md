@@ -43,7 +43,7 @@ This shows when winning a game.
 ![WinningGame](https://user-images.githubusercontent.com/12692788/55257377-c10a4000-5270-11e9-8af6-da6dcb63df86.jpg)
 
 ## Course Information
-**Course Name:** Introduction to Game Engineering
+**Course Name:** Introduction to Games Engineering
 
 **Head Lecturer** 
 * Mr. Moshe Elbaz
