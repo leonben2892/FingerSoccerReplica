@@ -7,7 +7,7 @@ Finger soccer replica made for PC.
 
 > Select formation
 
-> Score more goal than your opponent to be the winner
+> Score more goals than your opponent to be the winner
 
 ### Login Screen
 The user is required to enter his ID & password in order to get to the main menu screen.
