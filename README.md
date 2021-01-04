@@ -15,6 +15,7 @@ The user is required to enter his ID & password in order to get to the main menu
 
 ### Main Screen
 Main menu is used to navigate through the various options of the game.
+
 ![MainMenuScreen](https://user-images.githubusercontent.com/12692788/55247637-3b2eca80-5259-11e9-9d86-1f17469addf6.jpg)
 
 ### Single Player 
