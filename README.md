@@ -11,6 +11,7 @@ Finger soccer replica made for PC.
 
 ### Login Screen
 The user is required to enter his ID & password in order to get to the main menu screen.
+
 ![LoginScreen](https://user-images.githubusercontent.com/12692788/55247509-dc695100-5258-11e9-853c-280b6aa6ce4f.jpg)
 
 ### Main Screen
@@ -26,10 +27,12 @@ Play 1v1 against the computer.
 ### Multiplayer 
 Search and play against a different player.
 Including a working chat!
+
 ![Multiplayer](https://user-images.githubusercontent.com/12692788/55248535-0754a480-525b-11e9-88e7-4e1860b0024d.jpg)
 
 ### Game Tactics
 Player can choose from 14 different teams and 5 different formations.
+
 ![GameTactics](https://user-images.githubusercontent.com/12692788/55248791-9497f900-525b-11e9-9ac1-ed6a4a6e97b5.jpg)
 
 ### Options
